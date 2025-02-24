@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aliaksandr 👋  
+🚀 Data Analyst | SQL | Python | Machine Learning  
+📊 Passionate about transforming data into actionable insights  
 
-<!--
-**aliaksandr-liapin/aliaksandr-liapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Skills  
+- **Programming**: Python, R, SQL  
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
+- **Machine Learning**: Scikit-learn, TensorFlow  
+- **Big Data**: Spark, Hadoop  
 
-Here are some ideas to get you started:
+### 📂 Featured Projects  
+1️⃣ **[Sales Forecasting Model](https://github.com/yourusername/sales-forecasting)**  
+2️⃣ **[Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)**  
+3️⃣ **[Interactive Tableau Dashboard](https://public.tableau.com/yourdashboard)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Portfolio Website](https://yourwebsite.com) | [LinkedIn](https://linkedin.com/in/yourname)  
