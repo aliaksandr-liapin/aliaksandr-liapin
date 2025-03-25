@@ -1,16 +1,17 @@
 # Hi, I'm Aliaksandr 👋  
-🚀 Data Analyst | SQL | Python | Machine Learning  
-📊 Passionate about transforming data into actionable insights  
+🚀 Microsoft Full-Stack Developer | .NET | C# | Azure | React
+💻 Building scalable web applications and cloud solutions
 
-### 🔹 Skills  
-- **Programming**: Python, R, SQL  
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-learn, TensorFlow  
-- **Big Data**: Spark, Hadoop  
+🔹 Skills
+	•	Backend: .NET Core, C#, ASP.NET, Entity Framework
+	•	Frontend: React, TypeScript, JavaScript
+	•	Cloud & DevOps: Azure, Docker, Kubernetes, CI/CD
+	•	Databases: SQL Server, PostgreSQL
 
-### 📂 Featured Projects  
-1️⃣ **[Sales Forecasting Model](https://github.com/yourusername/sales-forecasting)**  
-2️⃣ **[Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)**  
-3️⃣ **[Interactive Tableau Dashboard](https://public.tableau.com/yourdashboard)**  
+📂 Featured Projects
 
-🌐 [Portfolio Website](https://yourwebsite.com) | [LinkedIn](https://linkedin.com/in/yourname)  
+1️⃣ Enterprise Web App
+2️⃣ Azure-Powered API
+3️⃣ Full-Stack Dashboard
+
+🌐 Portfolio Website | LinkedIn
