@@ -1,10 +1,10 @@
 # Hi, I'm Aliaksandr 👋  
-🚀 Microsoft Full-Stack Developer | .NET | C# | Azure | React
+🚀 Microsoft Full-Stack Developer | .NET | C# | Azure | Blazor
 💻 Building scalable web applications and cloud solutions
 
 🔹 Skills
 	•	Backend: .NET Core, C#, ASP.NET, Entity Framework
-	•	Frontend: React, TypeScript, JavaScript
+	•	Frontend: Blazor, C#
 	•	Cloud & DevOps: Azure, Docker, Kubernetes, CI/CD
 	•	Databases: SQL Server, PostgreSQL
 
